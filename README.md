@@ -1,5 +1,5 @@
 # restaurante_base_de_datos
-grupo: 
--Joseph J. Rodriguez 
--Yeriel Mendez 
--Juan Perez
+## grupo: 
+* 1. Joseph J. Rodriguez
+* 2. Yeriel Mejias
+* 3. Juan Perez
